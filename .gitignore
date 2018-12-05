@@ -70,3 +70,5 @@ local.properties
 
 # sbteclipse plugin
 .target
+
+test.in
